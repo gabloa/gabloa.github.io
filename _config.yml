@@ -58,6 +58,7 @@ plugins:
 minimal_mistakes_skin: "default"
 use_grammarly: false
 include: ["_pages"]
+heading_anchors: false
 defaults:
   - scope:
       path: ""
