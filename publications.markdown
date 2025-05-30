@@ -1,8 +1,10 @@
 ---
 layout: single
-title:
+title: Gabriel Loaiza-Ganem
 permalink: /publications/
 author_profile: true
+header:
+  overlay_image: /assets/images/banner.jpg
 ---
 <div style="font-size: 0.8em;">
 

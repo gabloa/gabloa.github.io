@@ -18,22 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Gabriel Loaiza-Ganem
-# email: I can be contacted at f "sdfgsddf"
+title: " "
+# email:
 description: >- # this means to ignore newlines until "baseurl:"
   Gabriel Loaiza-Ganem's personal website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# scholar_url: https://scholar.google.com/citations?user=lUAFQsgAAAAJ&hl=en
-# github_username:  gabloa
 
 # Enable academicons in the head
 include_academicons: true
 
 author:
   name: "Gabriel Loaiza-Ganem"
-  avatar: "/assets/images/avatar.png"
+  avatar: "/assets/images/avatar.jpeg"
   bio: "AI Researcher"
   links:
     - label: "Google Scholar"
