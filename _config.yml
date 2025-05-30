@@ -18,21 +18,52 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: " "
+# email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Gabriel Loaiza-Ganem's personal website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
+# Enable academicons in the head
+include_academicons: true
+
+author:
+  name: "Gabriel Loaiza-Ganem"
+  avatar: "/assets/images/avatar.jpeg"
+  bio: "AI Researcher"
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=lUAFQsgAAAAJ&hl=en"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/gabloa"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/gabriel-loaiza-ganem"
+
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+# Enable Academicons
+minimal_mistakes_skin: "default"
+use_grammarly: false
+include: ["_pages"]
+heading_anchors: false
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
