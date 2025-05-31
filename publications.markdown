@@ -269,7 +269,7 @@ header:
   <hr>
   
   <li>
-    <em>On a novel probability distribution for zero-laden compositional data</em><br>
+    <a href="https://www.elliottgordonrodriguez.com/CodaWork.pdf"><em>On a novel probability distribution for zero-laden compositional data</em></a><br>
     E Gordon-Rodriguez, <strong>G Loaiza-Ganem</strong>, JP Cunningham<br>
     <em>CoDaWork 2022</em> (<strong>oral</strong>)
   </li>
