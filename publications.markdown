@@ -14,7 +14,7 @@ header:
 
   <li>
     <a href="https://arxiv.org/pdf/2506.20705"><em>On Convolutions, Intrinsic Dimension, and Diffusion Models</em></a><br>
-    KK Leung, R Hosseinzadeh, <strong>G Loaiza-Ganem</strong>
+    KK Leung, R Hosseinzadeh, <strong>G Loaiza-Ganem</strong><br>
     <em>arXiv preprint 2025</em>
   </li>
   <hr>
