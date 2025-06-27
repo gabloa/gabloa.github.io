@@ -13,8 +13,15 @@ header:
 <ol reversed>
 
   <li>
+    <a href="https://arxiv.org/pdf/2506.20705"><em>On Convolutions, Intrinsic Dimension, and Diffusion Models</em></a><br>
+    KK Leung, R Hosseinzadeh, <strong>G Loaiza-Ganem</strong>, JC Cresswell<br>
+    <em>arXiv preprint 2025</em>
+  </li>
+  <hr>
+
+  <li>
     <a href="https://arxiv.org/pdf/2506.10060"><em>Textual Bayes: Quantifying Uncertainty in LLM-Based Systems</em></a><br>
-    BL Ross, N Vouitsis, AA Ghomi, R Hosseinzadeh, J Xin, Z Liu, Y Sui, S Hui, KK Leung, <strong>G Loaiza-Ganem</strong>, JC Cresswell<br>
+    BL Ross*, N Vouitsis*, AA Ghomi, R Hosseinzadeh, J Xin, Z Liu, Y Sui, S Hui, KK Leung, <strong>G Loaiza-Ganem</strong>, JC Cresswell<br>
     <em>arXiv preprint 2025</em>
   </li>
   <hr>
@@ -56,7 +63,7 @@ header:
   
   <li>
     <a href="https://arxiv.org/pdf/2312.10144"><em>Data-Efficient Multimodal Fusion on a Single GPU</em></a><br>
-    N Vouitsis, Z Liu, SK Gorti, V Villecroze, JC Cresswell, G Yu, <strong>G Loaiza-Ganem</strong>, M Volkovs<br>
+    N Vouitsis*, Z Liu*, SK Gorti*, V Villecroze, JC Cresswell, G Yu, <strong>G Loaiza-Ganem</strong>, M Volkovs<br>
     <em>CVPR 2024</em> <strong>(highlight)</strong> [<a href="https://github.com/layer6ai-labs/fusemix">code</a>]
   </li>
   <hr>
@@ -77,7 +84,7 @@ header:
   
   <li>
     <a href="https://arxiv.org/pdf/2304.13742.pdf"><em>TR0N: Translator Networks for 0-Shot Plug-and-Play Conditional Generation</em></a><br>
-    Z Liu, N Vouitsis, SK Gorti, J Ba, <strong>G Loaiza-Ganem</strong><br>
+    Z Liu*, N Vouitsis*, SK Gorti, J Ba, <strong>G Loaiza-Ganem</strong><br>
     <em>ICML 2023</em> [<a href="https://github.com/layer6ai-labs/tr0n">code</a>][<a href="https://huggingface.co/spaces/Layer6/TR0N">demo</a>]
   </li>
   <hr>
