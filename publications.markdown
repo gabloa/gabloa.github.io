@@ -18,6 +18,13 @@ header:
     <em>TMLR 2025</em> <strong>(expert certification)</strong>
   </li>
   <hr>
+  
+  <li>
+    <a href="https://arxiv.org/pdf/2410.21611"><em>CaloChallenge 2022: A Community Challenge for Fast Calorimeter Simulation</em></a><br>
+    C Krause et al.<br>
+    <em>Reports on Progress in Physics 2025</em>
+  </li>
+  <hr>
 
   <li>
     <a href="https://arxiv.org/pdf/2506.10060"><em>Textual Bayes: Quantifying Uncertainty in LLM-Based Systems</em></a><br>
@@ -30,13 +37,6 @@ header:
     <a href="https://arxiv.org/pdf/2411.00113"><em>A Geometric Framework for Understanding Memorization in Generative Models</em></a><br>
     BL Ross, H Kamkari, T Wu, R Hosseinzadeh, Z Liu, G Stein, JC Cresswell, <strong>G Loaiza-Ganem</strong><br>
     <em>ICLR 2025</em> <strong>(spotlight)</strong> [<a href="https://github.com/layer6ai-labs/diffusion_memorization/">code</a>]
-  </li>
-  <hr>
-  
-  <li>
-    <a href="https://arxiv.org/pdf/2410.21611"><em>CaloChallenge 2022: A Community Challenge for Fast Calorimeter Simulation</em></a><br>
-    C Krause et al.<br>
-    <em>arXiv preprint 2024</em>
   </li>
   <hr>
   
