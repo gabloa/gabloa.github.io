@@ -257,14 +257,14 @@ header:
   <li>
     <a href="https://arxiv.org/pdf/2211.13239.pdf"><em>Relating Regularization and Generalization through the Intrinsic Dimension of Activations</em></a><br>
     BCA Brown, J Juravsky, AL Caterini, <strong>G Loaiza-Ganem</strong><br>
-    <em>NeurIPS 2022 OPT workshop</em>
+    <em>NeurIPS 2022 OPT workshop</em> [<a href="https://github.com/layer6ai-labs/act_ids">code</a>]
   </li>
   <hr>
   
   <li>
     <a href="https://openreview.net/pdf?id=3ajyK7Mvl7"><em>Relating Regularization and Generalization through the Intrinsic Dimension of Activations</em></a><br>
     BCA Brown, J Juravsky, AL Caterini, <strong>G Loaiza-Ganem</strong><br>
-    <em>NeurIPS 2022 HITY workshop</em>
+    <em>NeurIPS 2022 HITY workshop</em> [<a href="https://github.com/layer6ai-labs/act_ids">code</a>]
   </li>
   <hr>
   
