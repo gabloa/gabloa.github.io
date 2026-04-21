@@ -13,6 +13,13 @@ header:
 <ol reversed>
 
   <li>
+    <a href="https://arxiv.org/pdf/2506.10060"><em>Textual Bayes: Quantifying Prompt Uncertainty in LLM-Based Systems</em></a><br>
+    BL Ross*, N Vouitsis*, AA Ghomi, R Hosseinzadeh, J Xin, Z Liu, Y Sui, S Hui, KK Leung, <strong>G Loaiza-Ganem</strong>, JC Cresswell<br>
+    <em>ICLR 2026</em> [<a href="https://github.com/layer6ai-labs/textual-bayes">code</a>]
+  </li>
+  <hr>
+
+  <li>
     <a href="https://arxiv.org/pdf/2506.20705"><em>On Convolutions, Intrinsic Dimension, and Diffusion Models</em></a><br>
     KK Leung, R Hosseinzadeh, <strong>G Loaiza-Ganem</strong><br>
     <em>TMLR 2025</em> <strong>(expert certification)</strong>
@@ -23,13 +30,6 @@ header:
     <a href="https://arxiv.org/pdf/2410.21611"><em>CaloChallenge 2022: A Community Challenge for Fast Calorimeter Simulation</em></a><br>
     C Krause et al.<br>
     <em>Reports on Progress in Physics 2025</em>
-  </li>
-  <hr>
-
-  <li>
-    <a href="https://arxiv.org/pdf/2506.10060"><em>Textual Bayes: Quantifying Uncertainty in LLM-Based Systems</em></a><br>
-    BL Ross*, N Vouitsis*, AA Ghomi, R Hosseinzadeh, J Xin, Z Liu, Y Sui, S Hui, KK Leung, <strong>G Loaiza-Ganem</strong>, JC Cresswell<br>
-    <em>arXiv preprint 2025</em>
   </li>
   <hr>
 
