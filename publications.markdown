@@ -13,6 +13,13 @@ header:
 <ol reversed>
 
   <li>
+    <a href="https://arxiv.org/pdf/2605.28920"><em>Conf-Gen: Conformal Uncertainty Quantification for Generative Models</em></a><br>
+    <strong>G Loaiza-Ganem</strong>, K Zhang, W Cui, MT Law, KK Leung<br>
+    <em>ICLM 2026</em> [<a href="https://github.com/layer6ai-labs/conf-gen">code</a>]
+  </li>
+  <hr>
+
+  <li>
     <a href="https://arxiv.org/pdf/2506.10060"><em>Textual Bayes: Quantifying Prompt Uncertainty in LLM-Based Systems</em></a><br>
     BL Ross*, N Vouitsis*, AA Ghomi, R Hosseinzadeh, J Xin, Z Liu, Y Sui, S Hui, KK Leung, <strong>G Loaiza-Ganem</strong>, JC Cresswell<br>
     <em>ICLR 2026</em> [<a href="https://github.com/layer6ai-labs/textual-bayes">code</a>]
